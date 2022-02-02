@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello :)
+
+I am an undergraduate student at St. Lawrence University in Canton, NY.
+
+I am currently a junior and a declared Statistics major and Education minor.
+
+I have background in both Python and R/RStudio.
 
 <!--
 **gmwyso19/gmwyso19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
